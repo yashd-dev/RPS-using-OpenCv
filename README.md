@@ -1,6 +1,8 @@
 # RPS-using-OpenCv
 
-Rock Paper Scissors made using OpenCV and MediaPipe for Semester End Python Project :)
+<img src="RPS Screenshot.png" alt="Image Preview" width="500"/>
+
+Rock Paper Scissors made using OpenCV and MediaPipe for End-Semester Python Project :)
 
 # Installation
 
